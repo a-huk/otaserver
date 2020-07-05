@@ -1,3 +1,13 @@
 {
-  "response": []
+    "response": [
+    {
+      "datetime": 1593947663,
+      "filename": "incremental_ota_update.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": 38032845,
+      "url": "https://github.com/a-huk/otaserver/releases/download/03/incremental_ota_update.zip",
+      "version": "17.1"
+    }
+  ]
 }

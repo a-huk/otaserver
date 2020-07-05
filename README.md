@@ -12,6 +12,8 @@ I plan on releasing one build a month, so that we all get the security updates. 
 [Lyceris-chan](https://github.com/Lyceris-chan)  
 [LineageOS](https://github.com/LineageOS)  
 [lupesoltec](https://github.com/lupesoltec)  
+[mahajant99](https://github.com/mahajant99) 
+If you feel like you deserve a mention, contact me
 
 ## Some information
 I plan on releasing one build a month, so that we all get the security updates. You can find more information on XDA and report anything there as well
