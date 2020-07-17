@@ -2,11 +2,11 @@
     "response": [
     {
       "datetime": 1595004034,
-      "filename": "incremental_ota_update.zip",
+      "filename": "lineage-17.1-20200717-UNOFFICIAL-daisy.zip",
       "id": "",
       "romtype": "UNOFFICIAL",
       "size": 642138599,
-      "url": "https://github.com/a-huk/otaserver/releases/download/06/incremental_ota_update.zip",
+      "url": "https://github.com/a-huk/otaserver/releases/download/06/lineage-17.1-20200717-UNOFFICIAL-daisy.zip",
       "version": "17.1"
     }
   ]
