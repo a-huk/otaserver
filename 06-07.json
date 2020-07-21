@@ -1,13 +1,3 @@
 {
-    "response": [
-    {
-      "datetime": %s,
-      "filename": "%s",
-      "id": "",
-      "romtype": "UNOFFICIAL",
-      "size": %s,
-      "url": "https://github.com/a-huk/otaserver/releases/download/%s/%s",
-      "version": "17.1"
-    }
-  ]
+  "response": []
 }
