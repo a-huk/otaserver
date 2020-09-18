@@ -1,3 +1,13 @@
 {
-  "response": []
+    "response": [
+    {
+      "datetime": 1600432262,
+      "filename": "lineage-17.1-20200916-UNOFFICIAL-daisy.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": 647126933,
+      "url": "https://github.com/a-huk/otaserver/releases/download/07/lineage-17.1-20200916-UNOFFICIAL-daisy.zip",
+      "version": "17.1"
+    }
+  ]
 }
