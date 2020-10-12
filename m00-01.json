@@ -1,3 +1,13 @@
 {
-  "response": []
+    "response": [
+    {
+      "datetime": 1602513806,
+      "filename": "lineage-17.1-20201012-UNOFFICIAL-daisy_migro-g.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": 671750320,
+      "url": "https://github.com/a-huk/otaserver/releases/download/08/lineage-17.1-20201012-UNOFFICIAL-daisy_migro-g.zip",
+      "version": "17.1"
+    }
+  ]
 }
