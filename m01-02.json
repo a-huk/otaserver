@@ -1,3 +1,13 @@
 {
-  "response": []
+    "response": [
+    {
+      "datetime": 1606297435,
+      "filename": "lineage-17.1-20201124-UNOFFICIAL-daisy_micro-g.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": 674189950,
+      "url": "https://github.com/a-huk/otaserver/releases/download/09/lineage-17.1-20201124-UNOFFICIAL-daisy_micro-g.zip",
+      "version": "17.1"
+    }
+  ]
 }
