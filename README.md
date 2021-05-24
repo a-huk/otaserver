@@ -1,4 +1,4 @@
-# Repository for OTA releases for Xiaomi A2 Lite LineageOS 17.1
+# Repository for OTA releases for Xiaomi A2 Lite LineageOS 17.1/18.1
 
 ## Source trees
 **Device:** [https://github.com/a-huk/device_xiaomi_daisy](https://github.com/a-huk/device_xiaomi_daisy)  
