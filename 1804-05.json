@@ -1,4 +1,13 @@
-
 {
-  "response": []
+    "response": [
+    {
+      "datetime": 1633722793,
+      "filename": "lineage-18.1-20211008-UNOFFICIAL-daisy.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": 677157054,
+      "url": "https://github.com/a-huk/otaserver/releases/download/18/lineage-18.1-20211008-UNOFFICIAL-daisy.zip",
+      "version": "18.1"
+    }
+  ]
 }
