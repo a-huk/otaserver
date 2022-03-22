@@ -1,0 +1,13 @@
+{
+    "response": [
+    {
+      "datetime": 1647944696,
+      "filename": "lineage-18.1-20220320-microg-daisy.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": 677440192,
+      "url": "https://github.com/a-huk/otaserver/releases/download/21/lineage-18.1-20220320-microg-daisy.zip",
+      "version": "18.1"
+    }
+  ]
+}
